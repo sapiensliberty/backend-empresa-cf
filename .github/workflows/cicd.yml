@@ -3,7 +3,7 @@ name: CI/CD Workflow for Java Spring Boot on Azure App Service
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
